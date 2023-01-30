@@ -38,3 +38,9 @@ Set up of Mango with OpenWRT to 'proxy' campus Captive Portal
 13. If for whatever reason the Captive Portal popup doe not appear on your Mac/Computer, using your favourite smartphone, connect the same WiFi SSID with the appropriate password. The Captive Portal popup should appear once the WiFi is connected.
 
 14. Enter the appropriate credentials or voucher, and if the Captive Portal authentication/authorization is successful, the Mango is now ready to 'proxy' all client (stations) connected to the Mango's WiFi "9dot1".
+
+Should the above not work, the following are several troubleshooting steps
+
+1. DNSMasq Setup
+Ignore resolv file should NOT be selected and the Resolv file path should be empty
+<img width="970" alt="Screenshot 2023-01-30 at 2 28 42 PM" src="https://user-images.githubusercontent.com/30426256/215404406-5906952c-3472-4dd8-8caa-32fe479051e6.png">
