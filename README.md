@@ -6,7 +6,7 @@ Set up of Mango with OpenWRT to 'proxy' campus Captive Portal
 
 1. Connect to the secured WiFi SSID 9dot1. Please contact me for the password.
 
-2. Using your favourite browser, go to http://192.168.9.1 (it should get re-directed to https://192.168.9.1. Since it is aself-signed cert, you can accept the browser warning and proceed.
+2. Using your favourite browser, go to http://192.168.9.1 (it should get re-directed to https://192.168.9.1. Since it is a self-signed cert, you can accept the browser warning and proceed.)
 
 3. The following login screen should appear 
 <img width="1375" alt="Screenshot 2023-01-30 at 2 02 13 PM" src="https://user-images.githubusercontent.com/30426256/215399209-90891fbf-33af-4434-a84f-84482822a751.png">
